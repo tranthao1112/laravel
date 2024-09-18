@@ -1,0 +1,86 @@
+span{
+    color: #fdcc7f;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu{
+    background-color: #344943;
+
+    padding: 15px;
+    list-style: none;
+    font-size: larger;
+}
+.banner{
+    background-color: #344943;
+
+}
+.logo{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    margin-top:10px;
+    font-size: larger;
+}
+.mn{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    
+    font-family: 'Nunito', sans-serif;
+}
+.nav-link{
+    margin-top: 10px;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+}
+.menu input{
+    border-radius: 30px;
+    border: 1px solid white
+}
+.search{
+    display: flex;
+    margin-left: 100px;
+}
+.search i{
+    color: white;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.dropdown-item{
+    background-color: white;
+}
+.note h3{
+    font-size: 40px;
+    color: #fdcc7f;
+    font-family: 'Nunito', sans-serif;
+}
+.note{
+    color: white;
+    margin-top: 70px;
+
+}
+.footer button{
+    background: '#DCAC62';
+    color: 'white';
+    margin-top: 10px;
+}
+.frmlh{
+    width: 60%;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    margin-bottom:50px
+}
+.frmlh label{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.frmlh input{
+    width: 80%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.form-group{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+

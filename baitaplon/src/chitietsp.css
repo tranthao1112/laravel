@@ -1,0 +1,11 @@
+.anh3{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+}
+.anh3 img{
+    width: 400px;
+}
+.item{
+    margin-top: 50px;
+}

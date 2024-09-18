@@ -1,0 +1,20 @@
+.card{
+    float: left;
+    margin: 30px;
+    width: 250px;
+    height: 500px;
+    margin-left: 60px;
+    border: none;
+}
+.card p{
+    color: #DCAC62;
+    font-weight: 500;
+    margin-top: 10px;
+}
+h4{
+    height: 83px;
+}
+.card img{
+    width: 250px;
+    height: 250px;
+}
